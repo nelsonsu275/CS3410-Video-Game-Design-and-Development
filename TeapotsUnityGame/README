@@ -1,0 +1,15 @@
+CS3410 Video Game Design and Development
+Fall 2018
+
+Teapots Unity Game Project
+-Full Unity Project packaged in "Teapots.7z"
+-Copies of my C# scripts are in "ScriptCopies" folder
+
+Game Description:
+-Game is played using arrow keys and space bar
+-There are multiple floating teapots that player must knock down with cannonballs
+-Arrow keys: moves position of the camera
+-Space bar: shoots out a cannonball
+-Timer of 30 seconds counts down on start up
+-"Game Over" is displayed after 30 seconds and teapots still remain unknocked
+-"You Win" is displayed after knocking down all teapots within 30 seconds
